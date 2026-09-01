@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Criado com a Lasy",
-  description: "Projeto criado com Lasy AI",
+  title: "Nexo — Gestão financeira empresarial",
+  description: "Organize faturamento, despesas, fluxo de caixa, investimentos e metas em um só lugar.",
 };
 
 export default function RootLayout({
